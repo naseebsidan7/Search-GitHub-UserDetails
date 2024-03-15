@@ -1,0 +1,72 @@
+.footer_container{
+    background:#010409;
+     justify-content: space-between;
+   
+     display: flex;
+     align-items: center;
+     padding: 1.2rem;
+     margin-top: 5rem;
+
+     border-top: 1px solid rgba(255, 255, 255, 0.384);
+}
+
+.brand , .brand_name{
+    margin-left: .5rem;
+    color: rgba(154, 208, 255, 0.961);
+    
+    font-family: monospace;
+    font-size: 20px;
+    cursor: pointer;
+}   
+
+.brand{
+    color: rgb(239, 239, 239);
+}
+
+a{
+    text-decoration: none;
+}
+.footer-links_icons  svg{
+    color: var(--color-white);
+    margin-right: 1.5rem;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.footer-links_icons a {
+    font-size: 20px; 
+    margin-right: .5rem;
+}
+
+.footer-links_icons a:last-child{
+    margin-right: 0.5rem;
+}
+
+
+@media screen and (max-width:545px) {
+    .footer-links_icons  svg{
+         
+        margin-right: .5rem;
+    }
+    
+}
+
+
+@media screen and (max-width:410px) {
+    .brand , .brand_name{
+        font-size: 18px;
+        letter-spacing: -2px;
+    }
+
+    .footer-links_icons svg{
+        
+        margin-right: 1rem;
+        font-size: 18px;
+        
+    }
+
+    .footer-links_icons a{
+        margin:0rem;
+    }
+    
+}

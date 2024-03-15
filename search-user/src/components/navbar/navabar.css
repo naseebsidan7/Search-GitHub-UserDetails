@@ -1,0 +1,70 @@
+.nav_container{
+
+    display: flex;
+    padding: 2rem;
+    align-items: center;
+    gap: 1rem;
+    background-color: #010409;
+   
+    border-bottom: 1px solid rgba(255, 255, 255, 0.384);
+ 
+}
+
+.app_heading{
+    background-color: rgba(0, 0, 0, 0.356);
+    cursor: pointer;
+    color: rgba(255, 255, 255, 0.932);
+}
+
+svg{
+   font-size: 24px;
+  
+}
+ 
+
+.search_icon {
+    font-size: 16px;
+    fill: rgb(116, 139, 240);
+    margin-left: -1px;
+    margin-bottom: -3px;
+}
+
+
+
+
+
+
+@media screen and (max-width:410px) {
+    .app_heading {
+         font-size: 25px;
+    }
+ 
+}
+
+@media screen and (max-width:370px) {
+    .app_heading {
+         font-size: 22px;
+    }
+    svg{
+        font-size: 22px;
+       
+     }
+     .search_icon {
+         font-size: 14px;
+        
+     }
+}
+
+@media screen and (max-width:350px) {
+    .app_heading {
+         font-size: 20px;
+    }
+    svg{
+        font-size: 20px;
+       
+     }
+     .search_icon {
+         font-size: 12px;
+        
+     }
+}
