@@ -14,6 +14,6 @@
 - Responsive Design: Enjoy a seamless experience across devices.
  <br>
   
-__Live WebSite 🌐__ :  [GitHub User Explorer](https://github-search7.netlify.app/){:target="_blank" rel="noopener noreferrer"}
+__Live WebSite 🌐__ :  [GitHub User Explorer](https://github-search7.netlify.app/)
 
 Check it Out !!
