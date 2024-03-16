@@ -1,5 +1,5 @@
 #  GitHub User Explorer
-﻿## Search-GitHub-UserDetails🔍
+﻿# Search-GitHub-UserDetails🔍
 
  __Description__ 📝 :
  
