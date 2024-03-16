@@ -20,4 +20,4 @@ Check it Out !!
 
  <br>
   
-__API LInk 🌐__ :  [GitHub User Explorer](https://github-search7.netlify.app/)
+__API Link ➡️__ :  [GitHub API](https://api.github.com/users/naseebsidan)
