@@ -9,10 +9,10 @@
 __Key Features__ 🔑:
 
 - Seamless GitHub Profile Exploration: Quickly and effortlessly retrieve detailed information about any GitHub user by entering their username.
-* Elegent User InterFace
-* Responsive Design: Enjoy a seamless experience across devices.
-
+- Elegent User InterFace
+- Responsive Design: Enjoy a seamless experience across devices.
+- 
 
 __Live WebSite 🌐__ :  [GitHub User Explorer](https://github-search7.netlify.app/)
 
-__Check it Out !!__
+Check it Out !!
