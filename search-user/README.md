@@ -1,8 +1,18 @@
-# React + Vite
+#  GitHub User Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ __Description__ 📝 :
+ 
+ GitHub User Explorer is modern web application built with React.js (vite) that empowers to seamlessly explore GitHub Profile with a Minimal stylish User Interface.
+ Using GitHub API , users can effortlessly retrieve details of any GitHub user by simply inputting thier username.  <br>
+ <br>
 
-Currently, two official plugins are available:
+ __Key Features__ 🔑:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Seamless GitHub Profile Exploration: Quickly and effortlessly retrieve detailed information about any GitHub user by entering their username.
+- Elegent User InterFace
+- Responsive Design: Enjoy a seamless experience across devices.
+ <br>
+  
+__Live WebSite 🌐__ :  [GitHub User Explorer](https://github-search7.netlify.app/)
+
+Check it Out !!
